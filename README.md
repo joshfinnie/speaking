@@ -8,6 +8,12 @@ There are a lot of talks that would be awesome for multiple meetups in DC, and i
 
 Please [fill out an issue](https://github.com/dctech/cfps/issues/new) with information about your proposed talk. There's a template with some questions to answer about your talk within that issue. Feel free to skip any you don't feel comfortable answering. Also, add labels to the issue so your talk is easier to find.
 
+Also, take a look at issues labeled [wanted](https://github.com/dctech/speaking/issues?q=is%3Aissue+is%3Aopen+label%3Awanted), you might be able to find an idea for a talk that is desired, but does not have anyone to give it yet.
+
+## Community
+
+Please [fill out an issue](https://github.com/dctech/cfps/issues/new) with information on a talk suggestion! There's a template with some question to answer about the talk you want to have given. Feel free to skip any you do not feel comfortable answering. Also, add labels to the issue so your talk is earier to find. This is an opportunity to reach out the the speakers in our community to have your topic discussed.
+
 ## Organizers
 
 Reach out to the speakers whose talks interest you!
